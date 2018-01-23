@@ -1,0 +1,9 @@
+mongo_db_neigh:
+  hosts: localhost
+  database: Zillow_NH
+  collection: neighborhood
+
+mongo_db_proxy:
+  hosts: localhost
+  proxy_database: ProxyPool
+  proxy_collection: IPs

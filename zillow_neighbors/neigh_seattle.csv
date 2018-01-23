@@ -1,0 +1,103 @@
+{"_id":{"$oid":"591d794fa4499114992c34c7"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Capitol Hill","RegionID":"250206"}}
+{"_id":{"$oid":"591d794fa4499114992c34c8"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Greenwood","RegionID":"250788"}}
+{"_id":{"$oid":"591d794fa4499114992c34c9"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Bitter Lake","RegionID":"271814"}}
+{"_id":{"$oid":"591d794fa4499114992c34ca"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Columbia City","RegionID":"271839"}}
+{"_id":{"$oid":"591d794fa4499114992c34cb"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Eastlake","RegionID":"271857"}}
+{"_id":{"$oid":"591d794fa4499114992c34cc"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Minor","RegionID":"271921"}}
+{"_id":{"$oid":"591d794fa4499114992c34cd"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Montlake","RegionID":"271923"}}
+{"_id":{"$oid":"591d794fa4499114992c34ce"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"North Beacon Hill","RegionID":"271932"}}
+{"_id":{"$oid":"591d794fa4499114992c34cf"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Olympic Hills","RegionID":"271957"}}
+{"_id":{"$oid":"591d794fa4499114992c34d0"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Portage Bay","RegionID":"271964"}}
+{"_id":{"$oid":"591d794fa4499114992c34d1"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Victory Heights","RegionID":"272005"}}
+{"_id":{"$oid":"591d794fa4499114992c34d2"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"South Beacon Hill","RegionID":"343994"}}
+{"_id":{"$oid":"591d794fa4499114992c34d3"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"View Ridge","RegionID":"343996"}}
+{"_id":{"$oid":"591d794fa4499114992c34d4"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Bryant","RegionID":"344003"}}
+{"_id":{"$oid":"591d794fa4499114992c34d5"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Olympic Manor","RegionID":"344005"}}
+{"_id":{"$oid":"591d794fa4499114992c34d6"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Uptown","RegionID":"344010"}}
+{"_id":{"$oid":"591d794fa4499114992c34d7"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Madison Valley","RegionID":"344012"}}
+{"_id":{"$oid":"591d794fa4499114992c34d8"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Admiral","RegionID":"344019"}}
+{"_id":{"$oid":"591d794fa4499114992c34de"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Fairmount Park","RegionID":"344021"}}
+{"_id":{"$oid":"591d794fa4499114992c34df"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Mt. Baker","RegionID":"344028"}}
+{"_id":{"$oid":"591d794fa4499114992c34e0"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Roxhill","RegionID":"344030"}}
+{"_id":{"$oid":"591d794fa4499114992c34e6"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Brighton","RegionID":"250146"}}
+{"_id":{"$oid":"591d794fa4499114992c34e7"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Georgetown","RegionID":"250714"}}
+{"_id":{"$oid":"591d794fa4499114992c34e8"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Green Lake","RegionID":"250780"}}
+{"_id":{"$oid":"591d794fa4499114992c34e9"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Holly Park","RegionID":"250889"}}
+{"_id":{"$oid":"591d794fa4499114992c34ea"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Interbay","RegionID":"250939"}}
+{"_id":{"$oid":"591d794fa4499114992c34eb"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Laurelhurst","RegionID":"251100"}}
+{"_id":{"$oid":"591d794fa4499114992c34ec"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Ravenna","RegionID":"251709"}}
+{"_id":{"$oid":"591d794fa4499114992c34ed"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Whittier Heights","RegionID":"252336"}}
+{"_id":{"$oid":"591d794fa4499114992c34ee"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Atlantic","RegionID":"271804"}}
+{"_id":{"$oid":"591d794fa4499114992c34ef"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Cedar Park","RegionID":"271831"}}
+{"_id":{"$oid":"591d794fa4499114992c34f0"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Downtown","RegionID":"271849"}}
+{"_id":{"$oid":"591d794fa4499114992c34f1"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"East Queen Anne","RegionID":"271856"}}
+{"_id":{"$oid":"591d794fa4499114992c34f2"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Lower Queen Anne","RegionID":"271906"}}
+{"_id":{"$oid":"591d794fa4499114992c34f3"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Matthews Beach","RegionID":"271913"}}
+{"_id":{"$oid":"591d794fa4499114992c34f4"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Meadowbrook","RegionID":"271915"}}
+{"_id":{"$oid":"591d794fa4499114992c34f5"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Pioneer Square","RegionID":"271963"}}
+{"_id":{"$oid":"591d794fa4499114992c34f6"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Magnolia","RegionID":"271990"}}
+{"_id":{"$oid":"591d794fa4499114992c34f7"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Westlake","RegionID":"272022"}}
+{"_id":{"$oid":"591d794fa4499114992c34f8"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Pinehurst","RegionID":"343993"}}
+{"_id":{"$oid":"591d794fa4499114992c34f9"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Denny Triangle","RegionID":"343995"}}
+{"_id":{"$oid":"591d794fa4499114992c34fa"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Roosevelt","RegionID":"344002"}}
+{"_id":{"$oid":"591d794fa4499114992c34fb"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Hawthorne Hills","RegionID":"344004"}}
+{"_id":{"$oid":"591d794fa4499114992c34fc"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Denny - Blaine","RegionID":"344011"}}
+{"_id":{"$oid":"591d794fa4499114992c34fd"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Central","RegionID":"344013"}}
+{"_id":{"$oid":"591d794fa4499114992c34fe"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Waterfront","RegionID":"344018"}}
+{"_id":{"$oid":"591d794fa4499114992c34ff"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Junction","RegionID":"344020"}}
+{"_id":{"$oid":"591d794fa4499114992c3504"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Rainier View","RegionID":"344027"}}
+{"_id":{"$oid":"591d794fa4499114992c3505"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Highland Park","RegionID":"344029"}}
+{"_id":{"$oid":"591d794fa4499114992c350e"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Dunlap","RegionID":"250478"}}
+{"_id":{"$oid":"591d794fa4499114992c350f"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Fremont","RegionID":"250692"}}
+{"_id":{"$oid":"591d794fa4499114992c3510"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Lakewood","RegionID":"251076"}}
+{"_id":{"$oid":"591d794fa4499114992c352f"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Wallingford","RegionID":"252248"}}
+{"_id":{"$oid":"591d794fa4499114992c3530"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Yesler Terrace","RegionID":"252396"}}
+{"_id":{"$oid":"591d794fa4499114992c3531"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Broadview","RegionID":"271819"}}
+{"_id":{"$oid":"591d794fa4499114992c3532"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"First Hill","RegionID":"271869"}}
+{"_id":{"$oid":"591d794fa4499114992c3533"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Harbor Island","RegionID":"271886"}}
+{"_id":{"$oid":"591d794fa4499114992c3534"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Leschi","RegionID":"271901"}}
+{"_id":{"$oid":"591d794fa4499114992c3535"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"South Lake Union","RegionID":"271987"}}
+{"_id":{"$oid":"591d794fa4499114992c3536"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"University District","RegionID":"272001"}}
+{"_id":{"$oid":"591d794fa4499114992c3537"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"West Queen Anne","RegionID":"272018"}}
+{"_id":{"$oid":"591d794fa4499114992c3538"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Alki","RegionID":"343997"}}
+{"_id":{"$oid":"591d794fa4499114992c3539"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Northgate","RegionID":"343998"}}
+{"_id":{"$oid":"591d794fa4499114992c353a"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"North College Park","RegionID":"343999"}}
+{"_id":{"$oid":"591d794fa4499114992c353b"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Maple Leaf","RegionID":"344000"}}
+{"_id":{"$oid":"591d794fa4499114992c353c"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Wedgwood","RegionID":"344001"}}
+{"_id":{"$oid":"591d794fa4499114992c353d"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Garfield","RegionID":"344014"}}
+{"_id":{"$oid":"591d794fa4499114992c353e"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Judkins Park","RegionID":"344015"}}
+{"_id":{"$oid":"591d794fa4499114992c353f"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Jackson Place","RegionID":"344016"}}
+{"_id":{"$oid":"591d794fa4499114992c3540"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Little Saigon","RegionID":"344017"}}
+{"_id":{"$oid":"591d794fa4499114992c3541"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"South Delridge","RegionID":"344031"}}
+{"_id":{"$oid":"591d794fa4499114992c3542"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"North Delridge","RegionID":"344032"}}
+{"_id":{"$oid":"591d794fa4499114992c3547"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Seaview","RegionID":"56654"}}
+{"_id":{"$oid":"591d794fa4499114992c3548"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Ballard","RegionID":"250017"}}
+{"_id":{"$oid":"591d794fa4499114992c3549"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Beacon Hill","RegionID":"250050"}}
+{"_id":{"$oid":"591d794fa4499114992c354a"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Broadmoor","RegionID":"250149"}}
+{"_id":{"$oid":"591d794fa4499114992c354b"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Crown Hill","RegionID":"250383"}}
+{"_id":{"$oid":"591d794fa4499114992c354c"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Haller Lake","RegionID":"250801"}}
+{"_id":{"$oid":"591d794fa4499114992c354d"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Loyal Heights","RegionID":"251170"}}
+{"_id":{"$oid":"591d794fa4499114992c354e"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Madison Park","RegionID":"251186"}}
+{"_id":{"$oid":"591d794fa4499114992c354f"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Madrona","RegionID":"251187"}}
+{"_id":{"$oid":"591d794fa4499114992c3550"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Rainier Beach","RegionID":"251704"}}
+{"_id":{"$oid":"591d794fa4499114992c3551"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"South Park","RegionID":"251971"}}
+{"_id":{"$oid":"591d794fa4499114992c3552"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Sunset Hill","RegionID":"252056"}}
+{"_id":{"$oid":"591d794fa4499114992c3553"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Belltown","RegionID":"271808"}}
+{"_id":{"$oid":"591d794fa4499114992c3554"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Industrial District","RegionID":"271892"}}
+{"_id":{"$oid":"591d794fa4499114992c3555"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"International District","RegionID":"271893"}}
+{"_id":{"$oid":"591d794fa4499114992c3556"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"North Queen Anne","RegionID":"271942"}}
+{"_id":{"$oid":"591d794fa4499114992c3557"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Phinney Ridge","RegionID":"271961"}}
+{"_id":{"$oid":"591d794fa4499114992c3558"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Sand Point","RegionID":"271975"}}
+{"_id":{"$oid":"591d794fa4499114992c3559"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Seward Park","RegionID":"271977"}}
+{"_id":{"$oid":"591d794fa4499114992c355a"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Windermere","RegionID":"272026"}}
+{"_id":{"$oid":"591d794fa4499114992c355b"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Blue Ridge","RegionID":"344006"}}
+{"_id":{"$oid":"591d794fa4499114992c355c"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"High Point","RegionID":"344033"}}
+{"_id":{"$oid":"591d794fa4499114992c355d"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Riverview","RegionID":"344034"}}
+{"_id":{"$oid":"591d794fa4499114992c3564"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Woodland","RegionID":"344007"}}
+{"_id":{"$oid":"591d794fa4499114992c3565"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"West Woodland","RegionID":"344008"}}
+{"_id":{"$oid":"591d794fa4499114992c3566"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"North Beach","RegionID":"344009"}}
+{"_id":{"$oid":"591d794fa4499114992c3567"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Gatewood","RegionID":"344022"}}
+{"_id":{"$oid":"591d794fa4499114992c3568"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Fauntleroy","RegionID":"344023"}}
+{"_id":{"$oid":"591d794fa4499114992c3569"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Arbor Heights","RegionID":"344024"}}
+{"_id":{"$oid":"591d794fa4499114992c3586"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Hillman City","RegionID":"344025"}}
+{"_id":{"$oid":"591d794fa4499114992c3587"},"properties":{"State":"WA","County":"King","City":"Seattle","Name":"Genesee","RegionID":"344026"}}
